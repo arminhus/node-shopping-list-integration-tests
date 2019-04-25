@@ -1,9 +1,9 @@
 language: node_js
 node_js: node
-deploy:
+deploy: morning-gorge-28459
   provider: heroku
   api_key:
     secure: ptgkzFvOzh0O3Y9llRjl9K16IXijP9+Ah4cwA85m9Rotm154IE9SYIQa+tt7V/8bzkh52Y5QCdtHxfWbB5lblsMEoZxblYGMxPCeYSZXpecKltMJa2Bf8/e5lbYBo+lyA6bowyDAoQFsQxkw8pelzKg7bXuFdZL7RzVWlM5NtZmFhDyGlwcNhdJEvuT3+P1zLvpV2qsWFIStFQDSNukvVZt5WomUpU6lCXjZnBE9niuIdR0J1A3XU1rxxyLMqncpxxuPjTbfo16MgN8QuxTXcDWQkGjfX+AzMVvNXnJw2odXvujTt1/M9nWKHqL2qlbyTn5MS48N1Mv3g7IOzCCgDqU6eeMBbu4XifZ/p1Dcnc41bOBxO0GIkc3JJVPi36MB7Euk9zovFSqnz0Jw/qKhhPYK5ZHEt1mkIZ0ee8baFckFDpE1rKAUUR5TZIvd6wSE2FpPqHY5rRVmdG6ZpPtytbyjSuMP2FpcEwGEIVaxW79zvCZdK3rroarassairH8gvSrbNn0+2Xt2zs1TbyLG28cUX0NBJSOZC3JYXLsq/97Gn/Mk58egOBIu1jeiU2zZQTgc7SgfIbpHefJWs6dV0Q8DuYWFyH+iaZm65wNsO38LKwLc3L76YMbgg7DU56dN0A5IN1TxEK2J8GOjbhHlGeqtgyTnkL9i8Mri94u1RW0=
   app: morning-gorge-28459
   on:
-    repo: https://git.heroku.com/morning-gorge-28459.git
+    repo: arminhus/node-shopping-list-integration-test
